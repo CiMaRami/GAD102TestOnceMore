@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "50d889f2-ead5-4c28-82b0-945ee5eba12e",
+            "Value": {
+                "id": "5485add7-de42-4c60-93f2-a50b2f6f85eb",
+                "resourcePath": "objects\\objWoodie\\objWoodie.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "51147dd9-2e96-4401-95cd-02ff442531c3",
             "Value": {
                 "id": "cf8c9647-c747-4a03-b534-d51490f136a5",
