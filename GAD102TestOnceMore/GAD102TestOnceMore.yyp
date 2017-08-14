@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "fa448313-0e69-4743-a1f9-2dc5eb45dbce",
+            "Value": {
+                "id": "ada7c067-6195-40f2-b329-d56db823fec6",
+                "resourcePath": "sprites\\sprWoodie\\sprWoodie.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fc21f829-0e5d-4fab-8034-aa9e5b008129",
             "Value": {
                 "id": "dc496569-8a7d-4373-9656-fc231d0aa123",
