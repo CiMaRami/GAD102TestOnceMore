@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "e5ca4dfc-e435-4e2e-93bf-687ff8570c20",
+            "Value": {
+                "id": "f5e88720-5937-4dd8-9e0c-0268d26889c9",
+                "resourcePath": "sprites\\sprForKyleGon\\sprForKyleGon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "7b5181f4-84c3-4e91-a59a-eb3064f5c4de",
